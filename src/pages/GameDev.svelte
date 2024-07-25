@@ -22,8 +22,8 @@
 >
   <SectionHeader
     wrapperClasses="moving-gradient-2"
-    headingText="GAME DEVELOPMENT"
-    subtitleText="Game development was what got me into coding in the first place, here are some featured projects."
+    headingText="FB REACT BOOST"
+    subtitleText="Facebook react is the best tool that you can use, here are the link:"
   />
   <SectionNumber number="100" right />
 

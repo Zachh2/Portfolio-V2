@@ -54,9 +54,8 @@
           class="text-gray-600 dark:text-gray-300 lg:text-lg space-y-5"
         >
           <p class="first-letter:text-4xl first-letter:font-bold">
-            What's up? I’m Bob, a software developer with expertise in web
-            development. Currently, I am a Computer Science specialist at
-            University of Toronto.
+            What's up? I’m Zach, a Artificial Intelligent Developer with expertise in web
+            development. Currently, I am a student specialist at calamba institute.
           </p>
           <p class="indent-4">
             The passion to create and innovate has always been in me. I strive
@@ -64,9 +63,8 @@
             attention and deliberation.
           </p>
           <p class="indent-4">
-            My expertise include JavaScript, CSS, and the MERN stack. Recently I
-            have been intrigue with blockchain tech and Web3. Aside from coding,
-            I enjoy playing table tennis, video games, and the drums.
+            My expertise include JavaScript, CSS, and the MERN stack. Aside from coding,
+            I enjoy playing badminton, video games, and the guitar
           </p>
         </div>
         <!-- <Link
